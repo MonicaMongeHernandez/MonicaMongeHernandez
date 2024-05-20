@@ -1,6 +1,4 @@
-<h1
-  <p align="center">Hi, I'm Mónica Monge Hernández!
-</h1>
+<h1 align="center">Hi, I'm Mónica Monge Hernández! </h1>
 
 - Professional in <strong>Quality Assurance</strong>, with +8 years in international technology companies. <br/>
 - Experience in manual and automated testing. <br/>
