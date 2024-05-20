@@ -28,7 +28,7 @@
 
 <h4 align="left"> 🤖 My Test Automation Projects  </h4>
 <h5 align="left">  WebdriverIO  </h5>
-<a href="https://github.com/MonicaMongeHernandez"> Webdriver.io Framework with Typescript</a> - WebdriverIo config file, page object model, allure reporter, accessibility, mocha, etc.
+<a href="https://github.com/MonicaMongeHernandez/webdriverio-web"> Webdriver.io Framework with Typescript</a> - WebdriverIo config file, page object model (POM), Allure reporter, mocha, typescript, environment variables, JSON and more.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h2></summary>
 
