@@ -33,7 +33,7 @@
 <h5 align="left">  WebdriverIO  </h5>
 <a href="https://github.com/MonicaMongeHernandez/webdriverio-web"> Webdriver.io Framework with Typescript</a> - WebdriverIo config file, page object model (POM), Allure reporter, mocha, typescript, environment variables, JSON and more.
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h2></summary>
+<summary><h4><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="25" /> To connect with me</h4></summary>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/m%C3%B3nica-monge-hern%C3%A1ndez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/mónica-monge-hernández](https://www.linkedin.com/in/m%C3%B3nica-monge-hern%C3%A1ndez/)" height="30" width="40" /></a>
