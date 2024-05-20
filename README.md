@@ -1,7 +1,11 @@
 <h1>
   <p align="center">Hi, I'm Mónica Monge Hernández!
 </h1>
-<p>Professional in <strong>Quality Assurance</strong>, with +8 years in international technology companies. <br/>Experience in manual and automated testing. <br/>Validations of web applications, mobile testing devices with Android and iOS, API backend testing. <br/>Implementation of automation solutions. <br/>Experience creating strategies of testing, test cases, executing end-to-end, smoke, sanity, and regression testing, and good practices as part of Agile teams. </p>
+- Professional in <strong>Quality Assurance</strong>, with +8 years in international technology companies. <br/>
+- Experience in manual and automated testing. <br/>
+- Validations of web applications, mobile testing devices with Android and iOS, API backend testing. <br/>
+- Implementation of automation solutions. <br/>
+- Experience creating strategies of testing, test cases, executing end-to-end, smoke, sanity, and regression testing, and good practices as part of Agile teams.
 
 <h4 align="left">🌱 Soft skills </h4>
 <table>
