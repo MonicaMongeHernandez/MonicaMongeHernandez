@@ -36,13 +36,16 @@
 <a href="https://github.com/MonicaMongeHernandez/webdriverio-appium-android">  Webdriver.io Mobile Framework + Appium + JavaScrip</a> -Android mobile testing, page object model (POM), Allure reporter, integrated with GitHub Actions, javascript, environment variables, JSON and more.
 
 <summary><h4><img src="https://ps.w.org/under-construction-page/assets/icon-256x256.gif?rev=2284849" align="center" width="25" /> Under Construction</h4></summary>
-<a href="https://github.com/MonicaMongeHernandez/webdriverio-web"> Selenium + Appium + Cucumber + JavaScript</a> 
+<a href="https://github.com/MonicaMongeHernandez/profile"> Selenium + Appium + Cucumber + JavaScript</a> 
 
 <summary><h4><img src="https://ps.w.org/under-construction-page/assets/icon-256x256.gif?rev=2284849" align="center" width="25" /> Under Construction</h4></summary>
-<a href="https://github.com/MonicaMongeHernandez/webdriverio-web"> Playwright Framework</a> 
+<a href="https://github.com/MonicaMongeHernandez/profile"> Playwright Framework + Javascript</a> 
 
 <summary><h4><img src="https://ps.w.org/under-construction-page/assets/icon-256x256.gif?rev=2284849" align="center" width="25" /> Under Construction</h4></summary>
-<a href="https://github.com/MonicaMongeHernandez/webdriverio-web"> JMeter project</a> 
+<a href="https://github.com/MonicaMongeHernandez/profile"> Cypress Framework + Typescript</a> 
+
+<summary><h4><img src="https://ps.w.org/under-construction-page/assets/icon-256x256.gif?rev=2284849" align="center" width="25" /> Under Construction</h4></summary>
+<a href="https://github.com/MonicaMongeHernandez/profile"> JMeter project</a> 
 
 <summary><h4><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="25" /> To connect with me</h4></summary>
 
