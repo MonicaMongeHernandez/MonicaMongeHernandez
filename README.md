@@ -42,7 +42,7 @@
 <a href="https://github.com/MonicaMongeHernandez/webdriverio-web"> Playwright Framework</a> 
 
 <summary><h4><img src="https://ps.w.org/under-construction-page/assets/icon-256x256.gif?rev=2284849" align="center" width="25" /> Under Construction</h4></summary>
-<a href="https://github.com/MonicaMongeHernandez/webdriverio-web"> JMeter</a> 
+<a href="https://github.com/MonicaMongeHernandez/webdriverio-web"> JMeter project</a> 
 
 <summary><h4><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="25" /> To connect with me</h4></summary>
 
