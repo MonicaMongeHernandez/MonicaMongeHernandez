@@ -33,7 +33,7 @@
 <h5 align="left">  WebdriverIO  </h5>
 <a href="https://github.com/MonicaMongeHernandez/webdriverio-web"> Webdriver.io Web Framework with Typescript</a> - WebdriverIo config file, page object model (POM), Allure reporter, mocha, typescript, environment variables, JSON and more.
 
-<a href="https://github.com/MonicaMongeHernandez/webdriverio-appium-android">  Webdriver.io Mobile Framework + Appium + JavaScrip</a> -Android mobile testing, page object model (POM), Allure reporter, integrated with GitHub Actions, javascript, environment variables, JSON and more.
+<a href="https://github.com/MonicaMongeHernandez/webdriverio-appium-android">  Webdriver.io Mobile Framework + Appium + JavaScript</a> -Android mobile testing, page object model (POM), Allure reporter, integrated with GitHub Actions, javascript, environment variables, JSON and more.
 
 <summary><h4><img src="https://ps.w.org/under-construction-page/assets/icon-256x256.gif?rev=2284849" align="center" width="25" /> Under Construction</h4></summary>
 <a href="https://github.com/MonicaMongeHernandez/profile"> Selenium + Appium + Cucumber + JavaScript</a> 
